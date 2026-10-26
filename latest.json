@@ -1,5 +1,5 @@
 {
-  "version": "1.0.10",
-  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.10.apk",
-  "notes": "Daha fazla sekmesi: aylık vakit tablosu, namaz takibi, zikirmatik; vurgu rengi seçimi"
+  "version": "1.0.12",
+  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.12.apk",
+  "notes": "İlçe seçimi, bildirim çubuğunda geri sayım ve ana ekran widget'ı"
 }
