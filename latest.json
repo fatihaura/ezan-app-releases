@@ -1,7 +1,7 @@
 {
-  "version": "1.0.18",
-  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.18.apk",
-  "notes": "Yeni uygulama ikonu (sade ay ve yıldız), beyaz zemin temizlendi",
-  "sha256": "f7bf1874579c266035b5964704844a3fb86325f1e0dd551f5cb3724b956fa4bc",
-  "size": 56973507
+  "version": "1.0.19",
+  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.19.apk",
+  "notes": "Ayarlar B tasarımı, aramada doğrudan ayar sonuçları, büyük geri sayımlı native bildirim",
+  "sha256": "db60e68361e4b146d6b883a0b7d2adf824348f62e65f5def7d60d88c035332cb",
+  "size": 56978959
 }
