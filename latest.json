@@ -1,7 +1,7 @@
 {
-  "version": "1.0.20",
-  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.20.apk",
-  "notes": "Yeni uygulama ikonu (altın ışınlar), cam görünümlü 6 boyutlu widget",
-  "sha256": "89968a4bd68aaaff6d20b57852abbfd272a16e7690e080c094e698dbefa03925",
+  "version": "1.0.21",
+  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.21.apk",
+  "notes": "Kıble: pusula yönü manyetik sapma (deklinasyon) ile düzeltildi",
+  "sha256": "40d8453d1b1f5cc8794b18bb18e2a4eff649901d8c3ba0c7cd85a7c48abaa8aa",
   "size": 57148063
 }
