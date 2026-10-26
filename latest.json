@@ -1,7 +1,7 @@
 {
-  "version": "1.0.17",
-  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.17.apk",
-  "notes": "Güneş yayı kartı: geri sayım yayın içinde, ufuk çizgisine yakın (tasarımdaki gibi)",
-  "sha256": "bf24cc6125a613d8326d010ba3fe29a1c0f885b7846b73706c3d37ceb7aff3fd",
-  "size": 57078243
+  "version": "1.0.18",
+  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.18.apk",
+  "notes": "Yeni uygulama ikonu (sade ay ve yıldız), beyaz zemin temizlendi",
+  "sha256": "f7bf1874579c266035b5964704844a3fb86325f1e0dd551f5cb3724b956fa4bc",
+  "size": 56973507
 }
