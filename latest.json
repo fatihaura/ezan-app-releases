@@ -1,7 +1,7 @@
 {
-  "version": "1.0.24",
-  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.24.apk",
-  "notes": "Yeni araçlar: Esmaül Hüsna, tesbihat rehberi, kaza/oruç takibi, zekât ve fitre, yedekleme, paylaşım kartı, yakındaki camiler, günün ayeti/hadisi (+ widget'lar), vakitte sessize alma",
-  "sha256": "dcedb975c3624d2f93c3431f09aac2aa438a30a2ee3aa5ddcb9f10192c844f75",
-  "size": 60233539
+  "version": "1.0.25",
+  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.25.apk",
+  "notes": "Theme: auto by prayer time, sky background, AMOLED, new accents",
+  "sha256": "22cc6bf2950c481c2930d9c31f11e064dfa5a11388b781d92241e4f172bedb09",
+  "size": 60243423
 }
