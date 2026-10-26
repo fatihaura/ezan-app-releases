@@ -1,5 +1,7 @@
 {
-  "version": "1.0.12",
-  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.12.apk",
-  "notes": "İlçe seçimi, bildirim çubuğunda geri sayım ve ana ekran widget'ı"
+  "version": "1.0.13",
+  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.13.apk",
+  "notes": "Güncelleme: indirilen APK saklanır (yeniden indirme yok), izin akışı, bütünlük kontrolü",
+  "sha256": "70c39366a42b2e7377aff736c127c48a2cc6f127eb7609663d0ac97248b193bf",
+  "size": 56647583
 }
