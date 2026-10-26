@@ -1,7 +1,7 @@
 {
-  "version": "1.0.22",
-  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.22.apk",
-  "notes": "Daha fazla: Ramazan kartı + renkli gruplu liste; araç sayfaları renkli üst bantlı ortak çerçeve",
-  "sha256": "3f405d19c589ecd12545d63b4db49d8c4b538325a04749d6968abdbb4a4134bf",
-  "size": 57164447
+  "version": "1.0.23",
+  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.23.apk",
+  "notes": "Çıkış uyarısı: ana ekranda geri'ye basınca üstte cam kart ve süre çubuğu, 2 sn içinde tekrar basınca çıkış",
+  "sha256": "9154bbd2d2d488c86d099ec598260434de06b6d4fcea93049bbee3aced7fd4fa",
+  "size": 58305371
 }
