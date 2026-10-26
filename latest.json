@@ -1,7 +1,7 @@
 {
-  "version": "1.0.21",
-  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.21.apk",
-  "notes": "Kıble: pusula yönü manyetik sapma (deklinasyon) ile düzeltildi",
-  "sha256": "40d8453d1b1f5cc8794b18bb18e2a4eff649901d8c3ba0c7cd85a7c48abaa8aa",
-  "size": 57148063
+  "version": "1.0.22",
+  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.22.apk",
+  "notes": "Daha fazla: Ramazan kartı + renkli gruplu liste; araç sayfaları renkli üst bantlı ortak çerçeve",
+  "sha256": "3f405d19c589ecd12545d63b4db49d8c4b538325a04749d6968abdbb4a4134bf",
+  "size": 57164447
 }
