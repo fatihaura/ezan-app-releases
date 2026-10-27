@@ -1,7 +1,7 @@
 {
-  "version": "1.0.34",
-  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.34.apk",
-  "notes": "Light mode: option to keep the home sky still",
-  "sha256": "24a796437cb650abc571144126044e56574230571c18cb98b052735de4667038",
-  "size": 72029178
+  "version": "1.0.35",
+  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.35.apk",
+  "notes": "Settings: hero and quick tiles, gradient icon tiles, theme preview cards, language cards, location card",
+  "sha256": "a6e0ba83c4147cc87e1dd0411bfe289f8d1b7c8da9f03a00d2a15505545e5c96",
+  "size": 72644823
 }
