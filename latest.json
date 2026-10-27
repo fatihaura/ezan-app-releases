@@ -1,7 +1,7 @@
 {
-  "version": "1.0.29",
-  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.29.apk",
-  "notes": "Daily verse/hadith: morning notification option and about 60 days of content",
-  "sha256": "b86b256959c59e0d56391dff68be21eb626dd8fcd7c18cbea5546d0fa950ad90",
-  "size": 62873951
+  "version": "1.0.30",
+  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.30.apk",
+  "notes": "Quran reader: offline Arabic text by page, surah/juz lists, bookmarks, text size",
+  "sha256": "85c9a90b8c13e8697444f17c7225802961040a1420c4e307fd6dec85eb1d7c3f",
+  "size": 67910832
 }
