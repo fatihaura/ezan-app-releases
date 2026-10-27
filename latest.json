@@ -1,7 +1,7 @@
 {
-  "version": "1.0.25",
-  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.25.apk",
-  "notes": "Theme: auto by prayer time, sky background, AMOLED, new accents",
-  "sha256": "22cc6bf2950c481c2930d9c31f11e064dfa5a11388b781d92241e4f172bedb09",
-  "size": 60243423
+  "version": "1.0.26",
+  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.26.apk",
+  "notes": "ToolScaffold: tighter compact header band",
+  "sha256": "b771ff139df63434c35838d762d519c0b80c6bfdb87c75ec83563de73caf3782",
+  "size": 60259807
 }
