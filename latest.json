@@ -1,7 +1,7 @@
 {
-  "version": "1.0.32",
-  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.32.apk",
-  "notes": "Qibla: arrow and globe views; Mosques: real map with pins and swipeable cards",
-  "sha256": "0fdf02a773b2976313a3baf34273397f584f63aff512b5fb0551e27ef6e64677",
-  "size": 71119298
+  "version": "1.0.33",
+  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.33.apk",
+  "notes": "Mosque full list, light-theme widgets with weather icon, narrow-screen fixes for ar/de/fr",
+  "sha256": "135da1ba1082737108b4569faf55ebab83de0658ce120821b91d5a8445f48aa4",
+  "size": 71799554
 }
