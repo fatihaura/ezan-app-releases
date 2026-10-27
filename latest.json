@@ -1,7 +1,7 @@
 {
-  "version": "1.0.30",
-  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.30.apk",
-  "notes": "Quran reader: offline Arabic text by page, surah/juz lists, bookmarks, text size",
-  "sha256": "85c9a90b8c13e8697444f17c7225802961040a1420c4e307fd6dec85eb1d7c3f",
-  "size": 67910832
+  "version": "1.0.31",
+  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.31.apk",
+  "notes": "Home: full-screen sky with mosque, mountains and live weather; Qibla: normal and camera views",
+  "sha256": "46ad0e325453621e05383c59dac1138d489a5c84ff8b270f54b6022459cdc7d5",
+  "size": 69771098
 }
