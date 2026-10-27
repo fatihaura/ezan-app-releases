@@ -1,7 +1,7 @@
 {
-  "version": "1.0.28",
-  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.28.apk",
-  "notes": "Add German and French",
-  "sha256": "0c1239298971f54cfd1fbcadcd87dbc332194719ab90d77ed00dded3dcb443de",
-  "size": 62461839
+  "version": "1.0.29",
+  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.29.apk",
+  "notes": "Daily verse/hadith: morning notification option and about 60 days of content",
+  "sha256": "b86b256959c59e0d56391dff68be21eb626dd8fcd7c18cbea5546d0fa950ad90",
+  "size": 62873951
 }
