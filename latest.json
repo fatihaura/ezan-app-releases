@@ -1,7 +1,7 @@
 {
-  "version": "1.0.31",
-  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.31.apk",
-  "notes": "Home: full-screen sky with mosque, mountains and live weather; Qibla: normal and camera views",
-  "sha256": "46ad0e325453621e05383c59dac1138d489a5c84ff8b270f54b6022459cdc7d5",
-  "size": 69771098
+  "version": "1.0.32",
+  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.32.apk",
+  "notes": "Qibla: arrow and globe views; Mosques: real map with pins and swipeable cards",
+  "sha256": "0fdf02a773b2976313a3baf34273397f584f63aff512b5fb0551e27ef6e64677",
+  "size": 71119298
 }
