@@ -1,7 +1,7 @@
 {
-  "version": "1.0.27",
-  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.27.apk",
-  "notes": "Mosques: map with bottom sheet, detail, favourites, filters, leave reminder",
-  "sha256": "defa09ebe4da9f838784d1799473674e11ca5e41d0fea212bc4117e559fcada7",
-  "size": 60571283
+  "version": "1.0.28",
+  "apk": "https://raw.githubusercontent.com/fatihaura/ezan-app-releases/main/ezan-app-1.0.28.apk",
+  "notes": "Add German and French",
+  "sha256": "0c1239298971f54cfd1fbcadcd87dbc332194719ab90d77ed00dded3dcb443de",
+  "size": 62461839
 }
